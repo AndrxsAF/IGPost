@@ -11,7 +11,7 @@
 - Contains Google Fonts libraries.
 - NOT responsive design at all.
 
-#### IGFEEDPREWORK directory
+#### IGPOST directory
 
     IGPOST/
             resource/
