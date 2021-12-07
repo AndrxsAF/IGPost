@@ -1,0 +1,87 @@
+body {
+    background-color: silver;
+    margin: 0px;
+    font-family: 'Varela Round', sans-serif;
+    overflow-x: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.item {
+    margin: 30px;
+    max-width: 50%;
+    height: auto;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.user {
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: -webkit-fill-available;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.profile-pic {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    border-radius: 100%;
+    margin: 5px;
+}
+
+.user-left {
+    display: flex;
+}
+
+.user-inleft {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+}
+
+.username {
+    margin: 0px;
+}
+
+.iconos {
+    display: flex;
+    padding-right: 15px;
+    justify-content: space-between;
+    padding-top: 5px;
+    padding-left: 15px;
+}
+
+.icono {
+    margin-right: 10px;
+}
+
+.location {
+    margin: 0px;
+    color: rgb(78, 76, 76);
+}
+
+.caption {
+    height: auto;
+}
+
+.img-post {
+    height: auto;
+    width: -webkit-fill-available;
+}
+
+.captiontext {
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+.likes {
+    padding-left: 18px;
+    padding-right: 18px;
+    margin-bottom: 10px;
+    font-size: 12px;
+}
