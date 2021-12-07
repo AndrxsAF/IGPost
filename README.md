@@ -1,4 +1,4 @@
-# IGFeedPreWork
+# IGPOST
 
     basic Instagram Post made with just HTML and some CSS libraries.
 
